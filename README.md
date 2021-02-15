@@ -1,5 +1,5 @@
-# glo.digital
-Gloria Varela's Portfolio 2021
+# varela.design
+Gloria Varela's Portfolio Febuary 2021
 ​
 ## **Built With**
 * [HTML](https"//w3schools.com)
