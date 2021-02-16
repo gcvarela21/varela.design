@@ -15,6 +15,7 @@ nav {
 }
 
 footer{
+	padding-top: 30px;
     display: inline;
 }
 
@@ -23,11 +24,19 @@ button{
 	/* font-size: 16px; */
 }
 
-h1, h2, h3, h4 {
+h1, h2 {
 color: white;
 font-family: 'Oxanium', cursive;
 }
-
+h3, h4 {
+	color: white;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px
+}
+.navbar-brand {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px
+}
 #h1 {
 	font-size: 150px;
 }
@@ -208,6 +217,33 @@ p {
     height: auto;
 }
 
+.home-sm {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: rgb(0, 0, 0);
+	background: -moz-linear-gradient(-45deg, rgba(0, 0, 0, 1) 0%, rgb(122, 0, 133) 100%);
+	background: -webkit-linear-gradient(-45deg,  rgba(0, 0, 0, 1) 0%,rgb(122, 0, 133) 100%);
+	background: linear-gradient(135deg,  rgba(0, 0, 0, 1)) 0%, rgb(122, 0, 133) 100%);
+}
+.work-sm {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: rgb(0, 0, 0);
+	background: -moz-linear-gradient(-45deg,  rgb(122, 0, 133) 0%, rgb(55, 0, 143) 100%);
+	background: -webkit-linear-gradient(-45deg,  rgb(122, 0, 133) 0%, rgb(55, 0, 143) 100%);
+	background: linear-gradient(135deg,  rgb(122, 0, 133) 0%, rgb(55, 0, 143) 100%);
+}
+.contact-sm {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: rgb(0, 0, 0);
+	background: -moz-linear-gradient(-45deg, rgb(55, 0, 143) 0%, rgb(0, 4, 30) 100%);
+	background: -webkit-linear-gradient(-45deg, rgb(55, 0, 143) 0%, rgb(0, 4, 30) 100%);
+	background: linear-gradient(135deg, rgb(55, 0, 143) 0%, rgb(0, 4, 30) 100%);
+}
 .mo-btn-w {
 	margin-bottom: 30px;
 	width: 250px;
