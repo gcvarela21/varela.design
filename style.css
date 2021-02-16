@@ -2,10 +2,7 @@ html {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	background: rgb(255, 41, 255);
-	background: -moz-linear-gradient(-45deg, rgba(255, 41, 255, 1) 0%, rgba(45, 130, 250, 1) 100%);
-	background: -webkit-linear-gradient(-45deg, rgba(255, 41, 255, 1) 0%, rgba(45, 130, 250, 1) 100%);
-	background: linear-gradient(135deg, rgba(255, 41, 255, 1) 0%, rgba(45, 130, 250, 1) 100%);
+	background: black;
 }
 
 body{
@@ -23,6 +20,7 @@ footer{
 
 h1{
 font-size: 38px;
+color: white
 }
 h2{
     font-size: 26px;
@@ -34,12 +32,22 @@ font-size: 22px;
 color: white;
 }
 
+p {
+	color: white;
+}
 .pads {
     padding: 30px;
 
 }
-
-
+.VDD {
+	padding-left: 200px;
+}
+#title {
+	font-size: 150px;
+}
+.side-i {
+	display: block;
+}
 .avatar {
 	width: 250px;
 	height: 250px;
@@ -114,15 +122,15 @@ a:link {
   
   /* mouse over link */
   a:hover {
-	color: rgb(82, 3, 185);
+	color: rgb(107, 202, 155);
   }
   
   /* selected link */
   a:active {
-	color: black;
+	color: rgb(16, 243, 27);
   }
 i {
-	color: black;
+	color: rgb(52, 235, 19);
 	font-size: 60px;
 	padding-left: 30px;
 	padding-right: 30px;
