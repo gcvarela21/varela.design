@@ -28,10 +28,26 @@ ______________________________________________________________________________
 * [See Live Site on Git Hub](https://gcvarela21.github.io/glo.digital/)
 ​
 
-### **The Author Links**
+### **The Author**
 
 ​
-**Gloria C Varela**
+Gloria C Varela
+
+```html
+Throughout my life, I’ve always been a hands-on person who is constantly learning new skills. 
+
+While studying Visual Arts in Southern California I worked part-time as a handyman and cable technician. 
+
+Although these roles were vastly different from what I was studying in school, I learned a lot about problem-solving, creative thinking, and troubleshooting.
+
+These became the building blocks that sparked a curiosity for me to move into digital design.
+
+I transferred to Cal State East Bay where I continued my studies in UX Design. The various classes I took there opened me up to more opportunities to learn new programs and tools. 
+
+Upon Completing my course work for my BFA, in UX Design Fall of 2020, I decided to further my skills and training at the University of California Berkeley’s Full Stack Web Developer Bootcamp. 
+
+As a Future Digital Designer, I’ve found a place where I can balance both my love for visual design with the problem-solving skills needed front and back-end web developement and design
+```
 
 * [Web-Development Portfolio Site on GitHub](https://gcvarela21.github.io/glo.digital/)
 * [UX and UI Portfolio Site](https://www.glo.digital/)
