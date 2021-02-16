@@ -62,17 +62,37 @@ h3, h4 {
 	text-decoration: none;
 	padding-bottom: 20px;
 }
-
+.av-pad {
+	padding: 40px;
+}
+.ia-pad {
+	padding: 30px;
+}
+.pad-t {
+	padding: 100px;
+}
+#scroll-txt {
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+#scroll-txt-i {
+	padding-bottom: 50px;
+}
+#scroll-txt-p {
+	padding-bottom: 20px;
+}
 .block {
 	display: inline;
 	margin: none;
 }
 
-
+section{
+	margin: 0px 0px 0px 0px;
+}
 /* ////////// imgs and animation ////// */
 .avatar {
-	width: 250px;
-	height: 250px;
+	width: 450px;
+	height: 450px;
 	box-sizing: border-box;
 	border: 5px white solid;
 	border-radius: 50%;
@@ -80,33 +100,18 @@ h3, h4 {
 	box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
 	transform: translatey(0px);
     animation: float 8s ease-in-out infinite;
+	margin: 0px 0px 0px 0px;
     margin-left: auto;
     margin-right: auto;
+	padding: 0px 0px 0px 0px;
 }
 #avatar {
-    width: 250px;
+    width: 450px;
     height: auto;
 }
-
-.avatar-project {
-	width: 300px;
-	height: 300px;
-	box-sizing: border-box;
-	border: 5px white solid;
-	border-radius: 50%;
-	overflow: hidden;
-	box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
-	transform: translatey(0px);
-    /* animation: float 8s ease-in-out infinite; */
-    margin-left: auto;
-    margin-right: auto;
+.home-i {
+	padding-top: 150px;
 }
-
-#avatar-project {
-    width: 500px;
-    height: auto;
-}
-
 @keyframes float {
 	0% {
 		box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
@@ -250,6 +255,7 @@ p {
 	border: 5px solid;
 	color: white;
 	border-radius: 5%;
+	border-color: rgb(52, 235, 19);
 	background-color: none;
 	background: none;
 	padding: 15px;
@@ -260,7 +266,45 @@ p {
 	border: 5px solid;
 	color: white;
 	border-radius: 5%;
+	border-color: rgb(52, 235, 19);
 	background-color: none;
 	background: none;
 	padding: 15px;
 }
+
+.square_btn{
+    display: inline-block;
+    padding: 7px 20px;
+	border-radius: 25px;
+    text-decoration: none;
+    color: #FFF;
+    background-image: -webkit-linear-gradient(45deg, #FFC107 0%, #ff8b5f 100%);
+    background-image: linear-gradient(45deg, #FFC107 0%, #ff8b5f 100%);
+    transition: .4s;
+}
+
+.square_btn:hover {
+    background-image: -webkit-linear-gradient(45deg, #FFC107 0%, #f76a35 100%);
+    background-image: linear-gradient(45deg, #FFC107 0%, #f76a35 100%);
+}
+/* .square_btn{
+	display: inline-block;
+    width: 200px;
+	border-radius: 25px;
+	font-size: 22px;
+	border: 5px solid;
+	border-color:white;
+    background-image: none;
+	text-decoration: none;
+	background: none;
+    transition: 2s;
+    color: rgb(52, 235, 19);
+	padding: 7px 20px;
+}
+
+.square_btn:hover {
+    background-image: rgb(52, 235, 19);
+	background: rgb(52, 235, 19);
+    transition: 2s;
+    color: white;
+} */
