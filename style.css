@@ -41,6 +41,11 @@ h3, h4 {
 #h1 {
 	font-size: 150px;
 }
+.h2c {
+	font-size: 80px;
+	color: rgb(16, 243, 27);
+	padding-bottom: 50px;
+}
 #h2	{
 	font-size: 80px;
 }
@@ -51,9 +56,13 @@ h3, h4 {
 #h4 {
 	font-size: 30px;
 }
+#pg {
+	font-size: 25px;
+	padding: 0px;
+}
 #p {
 	font-size: 25px;
-	padding: 40px;
+	padding: 0px;
 }
 #brand {
 	margin: 0px 0px 0px 0px;
@@ -72,7 +81,7 @@ h3, h4 {
 	padding: 30px;
 }
 .pad-t {
-	padding: 150px;
+	padding: 80px;
 }
 #scroll-txt {
 	padding: 0px 0px 0px 0px;
@@ -321,7 +330,9 @@ p {
 
 /* //////////////////////////////////////////////
 //////////////////////////////////////////// */
-
+.pady{
+	padding-top: 100px;
+}
 .padz{
 	padding-bottom: 100px;
 }
@@ -345,4 +356,43 @@ p {
 
 .lg3 {
 	padding-bottom: 25px;
+}
+#ph {
+	padding-top: 80px;
+}
+.green {
+	color: rgb(52, 235, 19);
+}
+
+#about-lg {
+	font-size: 30px;
+	padding: 40px;
+}
+
+/* .home-sm {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: rgb(0, 0, 0);
+	background: -moz-linear-gradient(-45deg, rgba(0, 0, 0, 1) 0%, rgb(122, 0, 133) 100%);
+	background: -webkit-linear-gradient(-45deg,  rgba(0, 0, 0, 1) 0%,rgb(122, 0, 133) 100%);
+	background: linear-gradient(135deg,  rgba(0, 0, 0, 1) 0%, rgb(122, 0, 133) 100%);
+} */
+.work {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: rgb(0, 0, 0);
+	background: -moz-linear-gradient(-45deg,  rgb(10, 54, 2) 0%, rgb(22, 77, 0) 100%);
+	background: -webkit-linear-gradient(-45deg,  rgb(10, 54, 2) 0%, rgb(22, 77, 0) 100%);
+	background: linear-gradient(135deg,  rgb(10, 54, 2) 0%, rgb(18, 63, 0) 100%);
+}
+.contact {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: rgb(0, 0, 0);
+	background: -moz-linear-gradient(-45deg, rgb(18, 63, 0) 0%, rgb(0, 4, 30) 100%);
+	background: -webkit-linear-gradient(-45deg, rgb(18, 63, 0) 0%, rgb(0, 4, 30) 100%);
+	background: linear-gradient(135deg, rgb(18, 63, 0) 0%, rgb(0, 4, 30) 100%);
 }

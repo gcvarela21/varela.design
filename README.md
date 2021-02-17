@@ -46,7 +46,7 @@ I transferred to Cal State East Bay where I continued my studies in UX Design. T
 
 Upon Completing my course work for my BFA, in UX Design Fall of 2020, I decided to further my skills and training at the University of California Berkeley’s Full Stack Web Developer Bootcamp. 
 
-As a Future Digital Designer, I’ve found a place where I can balance both my love for visual design with the problem-solving skills needed front and back-end web developement and design
+As a Future Digital Designer, I’ve found a place where I can balance both my love for visual design with the problem-solving skills needed front and back-end web developement and design.
 ```
 
 * [Web-Development Portfolio Site on GitHub](https://gcvarela21.github.io/glo.digital/)
