@@ -15,16 +15,17 @@ Gloria Varela's Portfolio
 * [gitHub](https"//gitHub.com)
 * [Atom](https://atom.io/)
 
-![Sample Page]()
+![Sample Page](https://github.com/gcvarela21/varela.design/blob/main/img/home_lg.png?raw=true)
 
 ### **Summary**
 
 Using Bootstrap's grid I was able to use the utility items such as flex, layout gutters and columns, break points, and nav bars to build this site. Using reference images and specified break points I was able to recreate the sample on a live web setting hosted on git hub, using git commands from gitBash to add, commit, and push code from my personal computer onto gitHub's server for version control.
 
-![Sample Page]()
 
-![Sample Page]()
 
+![Sample Page](https://github.com/gcvarela21/varela.design/blob/main/img/home_sm.png?raw=true)
+![Sample Page](https://github.com/gcvarela21/varela.design/blob/main/img/work_sm.png?raw=true)
+![Sample Page](https://github.com/gcvarela21/varela.design/blob/main/img/contact_sm.png?raw=true)
 ______________________________________________________________________________
 ​
 
