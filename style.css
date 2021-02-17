@@ -29,6 +29,7 @@ color: white;
 font-family: 'Oxanium', cursive;
 }
 h3, h4 {
+	font-family: 'Oxanium', cursive;
 	color: white;
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px
@@ -45,12 +46,14 @@ h3, h4 {
 }
 #h3	{
 	font-size: 50px;
+	color: rgb(16, 243, 27);
 }
 #h4 {
 	font-size: 30px;
 }
 #p {
 	font-size: 25px;
+	padding: 40px;
 }
 #brand {
 	margin: 0px 0px 0px 0px;
@@ -69,7 +72,7 @@ h3, h4 {
 	padding: 30px;
 }
 .pad-t {
-	padding: 100px;
+	padding: 150px;
 }
 #scroll-txt {
 	padding: 0px 0px 0px 0px;
@@ -313,4 +316,31 @@ p {
 .square_btn:hover {
 	border-color: white;
 	color:rgb(52, 235, 19);	
+}
+
+/* //////////////////////////////////////////////
+//////////////////////////////////////////// */
+.padz{
+	padding-bottom: 100px;
+}
+#work {
+	padding-top: 200px;
+	padding-bottom: 200px;
+	font-size: 80px;
+}
+
+.img-l {
+	width: 600px;
+	height: auto;
+}
+
+.pop {
+	padding: 100px;
+}
+.gen {
+	padding: 25px;
+}
+
+.lg3 {
+	padding-bottom: 25px;
 }
